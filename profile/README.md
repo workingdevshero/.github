@@ -18,10 +18,11 @@ Let WDH help you take your project to the next level. Visit [workingdevshero.com
 <a href="https://workingdevshero.com/copilot-shorts-imports/"><img src="https://github.com/workingdevshero/.github/assets/2646053/15b43e02-775a-43ec-875a-8551df887977" height="115px" alt="copilot tips and tricks imports"></a> 
 <a href="https://workingdevshero.com/productivity-power-ups-co2-monitoring/"><img src="https://github.com/workingdevshero/.github/assets/2646053/c17f8b47-bc5a-49c1-a71e-10d043708a28" height="115px" alt="man asleep behind computer"></a> 
 <a href="https://workingdevshero.com/copilot-tips-sync-async/"><img src="https://github.com/workingdevshero/.github/assets/2646053/788bd2f5-89a3-4377-a65a-dd8d48e5c78a" height="115px" alt="copilot tips and tricks sync to async"></a>
-<a href="https://workingdevshero.com/productivity-power-ups-ketone-iq/"><img src="https://github.com/workingdevshero/.github/assets/2646053/af99fc64-7f8e-474c-b50e-a39755b0fae1" height="115px" alt="modern vs ketogenic diet">
+<a href="https://workingdevshero.com/productivity-power-ups-ketone-iq/"><img src="https://github.com/workingdevshero/.github/assets/2646053/44c9fa84-0cfc-495f-9fcc-6f1381c82ec9" height="115px" alt="modern vs ketogenic diet">
 <a href="https://workingdevshero.com/copilot-shorts-ts-types/"><img src="https://github.com/workingdevshero/.github/assets/2646053/57725c8b-66d6-4b8c-8839-f8b588645510" height="115px" alt="copilot tips ts types">
 
 ## Services
+
 
 Working Dev’s Hero specializes in full-stack software development. We offer services ranging from 1-on-1 software development education to in-depth business consultation. Working Dev’s Hero will help you fulfill your hero’s story no matter what leg of the journey you’re about to embark on.
 
