@@ -18,8 +18,8 @@ Let WDH help you take your project to the next level. Visit [workingdevshero.com
 <a href="https://workingdevshero.com/copilot-shorts-imports/"><img src="https://github.com/workingdevshero/.github/assets/2646053/15b43e02-775a-43ec-875a-8551df887977" height="115px" alt="copilot tips and tricks imports"></a> 
 <a href="https://workingdevshero.com/productivity-power-ups-co2-monitoring/"><img src="https://github.com/workingdevshero/.github/assets/2646053/c17f8b47-bc5a-49c1-a71e-10d043708a28" height="115px" alt="man asleep behind computer"></a> 
 <a href="https://workingdevshero.com/copilot-tips-sync-async/"><img src="https://github.com/workingdevshero/.github/assets/2646053/788bd2f5-89a3-4377-a65a-dd8d48e5c78a" height="115px" alt="copilot tips and tricks sync to async"></a>
-<a href="https://workingdevshero.com/productivity-power-ups-ketone-iq/"><img src="https://github.com/workingdevshero/.github/assets/2646053/44c9fa84-0cfc-495f-9fcc-6f1381c82ec9" height="115px" alt="modern vs ketogenic diet">
-<a href="https://workingdevshero.com/copilot-shorts-ts-types/"><img src="https://github.com/workingdevshero/.github/assets/2646053/57725c8b-66d6-4b8c-8839-f8b588645510" height="115px" alt="copilot tips ts types">
+<a href="https://workingdevshero.com/productivity-power-ups-ketone-iq/"><img src="https://github.com/workingdevshero/.github/assets/2646053/44c9fa84-0cfc-495f-9fcc-6f1381c82ec9" height="115px" alt="modern vs ketogenic diet"></a>
+<a href="https://workingdevshero.com/copilot-shorts-ts-types/"><img src="https://github.com/workingdevshero/.github/assets/2646053/57725c8b-66d6-4b8c-8839-f8b588645510" height="115px" alt="copilot tips ts types"></a>
 
 ## Services
 
@@ -28,7 +28,7 @@ Working Dev’s Hero specializes in full-stack software development. We offer se
 
 ### Code Reviews
 
-<a href="https://workingdevshero.com/code-reviews/"><img src="https://github.com/workingdevshero/.github/assets/2646053/aa446dff-6715-4e41-8c52-6333bc933381" width="200px" alt="developers doing code review">
+<a href="https://workingdevshero.com/code-reviews/"><img src="https://github.com/workingdevshero/.github/assets/2646053/aa446dff-6715-4e41-8c52-6333bc933381" width="200px" alt="developers doing code review"></a>
 
 Working on something complicated and want another set of eyes? Worried your engineers are cutting corners and building low-quality software? Let Working Dev’s Hero review your code and give you the critical feedback you need to deliver high-quality, revenue-driving software.
 
@@ -36,7 +36,7 @@ Working on something complicated and want another set of eyes? Worried your engi
 
 ### Consulting
 
-<a href="https://workingdevshero.com/consulting/"><img src="https://github.com/workingdevshero/.github/assets/2646053/fa46226b-d8b7-4b69-82fc-19c178872a44" width="200px" alt="superhero talking to business man">
+<a href="https://workingdevshero.com/consulting/"><img src="https://github.com/workingdevshero/.github/assets/2646053/fa46226b-d8b7-4b69-82fc-19c178872a44" width="200px" alt="superhero talking to business man"></a>
 
 Has technical debt caused your software project to grind to a halt? Or maybe you’re starting a new project and looking for guidance? Working Dev’s Hero has the expertise to restore projects to good working order or build new stacks that leverage modern industry best practices.
 
@@ -44,7 +44,7 @@ Has technical debt caused your software project to grind to a halt? Or maybe you
 
 ### Development
 
-<a href="https://workingdevshero.com/development/"><img src="https://github.com/workingdevshero/.github/assets/2646053/a135848d-c06b-4f0e-ab0e-a64042e77228" width="200px" alt="jacked superhero developer crushing code">
+<a href="https://workingdevshero.com/development/"><img src="https://github.com/workingdevshero/.github/assets/2646053/a135848d-c06b-4f0e-ab0e-a64042e77228" width="200px" alt="jacked superhero developer crushing code"></a>
 
 Does your organization have a mission-critical deadline approaching? Looking to add temporary development fire-power? Or perhaps you need a new app built from scratch? Working Dev’s Hero has the resources you need to release on time and ship high-quality software fast.
 
@@ -52,7 +52,7 @@ Does your organization have a mission-critical deadline approaching? Looking to 
 
 ### Education
 
-<a href="https://workingdevshero.com/education/"><img src="https://github.com/workingdevshero/.github/assets/2646053/00c00bf9-bd2b-48f8-83b2-010c7f04dc67" width="200px" alt="bearded developer pointing at code">
+<a href="https://workingdevshero.com/education/"><img src="https://github.com/workingdevshero/.github/assets/2646053/00c00bf9-bd2b-48f8-83b2-010c7f04dc67" width="200px" alt="bearded developer pointing at code"></a>
 
 Are you sick of your job and looking to make a career change? Are you a developer who’s not getting paid enough and needs a promotion? Is your child interested in building an app or game? Working Dev’s Hero has the knowledge you need to take the next step toward achieving your goals.
 
@@ -60,8 +60,7 @@ Are you sick of your job and looking to make a career change? Are you a develope
 
 ### Interviews
 
-<a href="https://workingdevshero.com/interviews/"><img src="https://github.com/workingdevshero/.github/assets/2646053/a21f24be-8065-4b74-85fe-cce4efafc9c1" width="200px" alt="hero interviewing sidekick">
-
+<a href="https://workingdevshero.com/interviews/"><img src="https://github.com/workingdevshero/.github/assets/2646053/a21f24be-8065-4b74-85fe-cce4efafc9c1" width="200px" alt="hero interviewing sidekick"></a>
 
 Looking to make your first technical hire? Are your developers too busy to perform interviews? Want an extra layer of verification before making your next hire? Let Working Dev’s Hero handle your next technical interview and ensure that you’re hiring only high-quality candidates.
 
