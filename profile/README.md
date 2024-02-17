@@ -14,10 +14,10 @@ Let WDH help you take your project to the next level. Visit [workingdevshero.com
 
 ## Tips & Tricks
 
-<a href="https://workingdevshero.com/productivity-power-ups-treadmill-desk/"><img src="https://github.com/workingdevshero/.github/assets/2646053/15429060-9a21-46c1-835c-e166670de13a" height="75px" alt="man using laptop on treadmill desk"></a> 
-<a href="https://workingdevshero.com/copilot-shorts-imports/"><img src="https://github.com/workingdevshero/.github/assets/2646053/15b43e02-775a-43ec-875a-8551df887977" height="75px" alt="copilot tips and tricks imports"></a> 
-<a href="https://workingdevshero.com/productivity-power-ups-co2-monitoring/"><img src="https://github.com/workingdevshero/.github/assets/2646053/c17f8b47-bc5a-49c1-a71e-10d043708a28" height="75px" alt="man asleep behind computer"></a> 
-<a href="https://workingdevshero.com/copilot-tips-sync-async/"><img src="https://github.com/workingdevshero/.github/assets/2646053/788bd2f5-89a3-4377-a65a-dd8d48e5c78a" height="75px" alt="copilot tips and tricks sync to async"></a>
+<a href="https://workingdevshero.com/productivity-power-ups-treadmill-desk/"><img src="https://github.com/workingdevshero/.github/assets/2646053/15429060-9a21-46c1-835c-e166670de13a" height="150px" alt="man using laptop on treadmill desk"></a> 
+<a href="https://workingdevshero.com/copilot-shorts-imports/"><img src="https://github.com/workingdevshero/.github/assets/2646053/15b43e02-775a-43ec-875a-8551df887977" height="150px" alt="copilot tips and tricks imports"></a> 
+<a href="https://workingdevshero.com/copilot-tips-sync-async/"><img src="https://github.com/workingdevshero/.github/assets/2646053/788bd2f5-89a3-4377-a65a-dd8d48e5c78a" height="150px" alt="copilot tips and tricks sync to async"></a>
+<a href="https://workingdevshero.com/productivity-power-ups-co2-monitoring/"><img src="https://github.com/workingdevshero/.github/assets/2646053/c17f8b47-bc5a-49c1-a71e-10d043708a28" height="150px" alt="man asleep behind computer"></a> 
 
 ## Services
 
