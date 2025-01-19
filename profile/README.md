@@ -2,7 +2,7 @@
 
 <a href="https://x.com/workingdevshero"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" heigtht="28px" alt="x profile link"></a>
 <a href="https://instagram.com/workingdevshero"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram profile link" height="28px"></a>
-<a href="https://discord.gg/K4KjjRV5ve"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord server link" height="28px"></a>
+<a href="https://discord.gg/UxNXrBukjZ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord server link" height="28px"></a>
 <a href="https://youtube.com/c/workingdevshero"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube channel link" height="28px"></a>
 <a href="https://medium.com/@workingdevshero"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium profile link" height="28px"></a>
 
