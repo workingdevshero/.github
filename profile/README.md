@@ -4,8 +4,8 @@
 <a href="https://x.com/workingdevshero"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28px" alt="x profile link"></a>
 <a href="https://linkedin.com/company/workingdevshero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" alt="linkedin profile link"></a>
 <a href="https://youtube.com/@workingdevshero"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28px" alt="youtube channel link"></a>
-<a href="https://threads.com/workingdevshero"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" height="28px" alt="threads profile link"></a>
 <a href="https://instagram.com/workingdevshero"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28px" alt="instagram profile link"></a>
+<a href="https://threads.com/workingdevshero"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" height="28px" alt="threads profile link"></a>
 
 # 🚀 We Build AI-Powered Software That Ships
 
