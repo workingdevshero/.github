@@ -1,9 +1,11 @@
-<img alt="brand-purple-no-text-pattern" width="720px" src="https://github.com/workingdevshero/.github/assets/2646053/cfb5cbfb-6e61-40f7-9fa0-3c3f41a15fa2">
+<img alt="We build AI software that ships" width="100%" src="https://raw.githubusercontent.com/workingdevshero/.github/main/profile/banner.png">
 
 <a href="https://github.com/workingdevshero"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28px" alt="github profile link"></a>
 <a href="https://x.com/workingdevshero"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28px" alt="x profile link"></a>
 <a href="https://linkedin.com/company/workingdevshero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" alt="linkedin profile link"></a>
 <a href="https://youtube.com/@workingdevshero"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28px" alt="youtube channel link"></a>
+<a href="https://threads.com/workingdevshero"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" height="28px" alt="threads profile link"></a>
+<a href="https://instagram.com/workingdevshero"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28px" alt="instagram profile link"></a>
 
 # 🚀 We Build AI-Powered Software That Ships
 
